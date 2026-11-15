@@ -1,3 +1,4 @@
+Amazon Sale Data Analyst Dashboard | Power BI
 Project Overview
 This project uses Power BI to analyze Amazon sales data, focusing on sales performance, geographical distribution, product categories, promotions, order status, and fulfilment.
 
