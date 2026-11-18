@@ -29,3 +29,5 @@ KPI Development & Performance Analysis
 
 Tools
 Power BI | Power Query | DAX
+
+Download the original data by clicking below URL:
