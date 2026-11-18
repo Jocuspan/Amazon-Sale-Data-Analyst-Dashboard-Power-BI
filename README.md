@@ -31,3 +31,4 @@ Tools
 Power BI | Power Query | DAX
 
 Download the original data by clicking below URL:
+https://github.com/Jocuspan/Amazon-Sale-Data-Analyst-Dashboard-Power-BI/releases/tag/PowerBI
